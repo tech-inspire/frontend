@@ -20,7 +20,7 @@
     "axios": "^1.9.0",
     "inspire-api-contracts": "github:tech-inspire/api-contracts",
     "js-cookie": "^3.0.5",
-    "pinia": "^3.0.2",
+    "pinia": "^3.0.3",
     "vue": "^3.5.16",
     "vue-cropperjs": "^5.0.0",
     "vue-router": "^4.5.1"
