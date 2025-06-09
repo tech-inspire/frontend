@@ -13,7 +13,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@bufbuild/protobuf": "^2.5.1",
+    "@bufbuild/protobuf": "^2.5.2",
     "@connectrpc/connect": "^2.0.2",
     "@connectrpc/connect-web": "^2.0.2",
     "@vueuse/core": "^13.3.0",
